@@ -32,5 +32,5 @@ p.s cudatoolkit ≠ CUDA
         * 利用torch建立本次測驗所需的 kernel size、Convolutional layer、fully connection layer
         * 進行訓練
         
-![image](https://github.com/SaltedFishXD/Digital-MED-case2/blob/main/CNN-Layer.png)
+   ![image](https://github.com/SaltedFishXD/Digital-MED-case2/blob/main/CNN-Layer.png)
 
