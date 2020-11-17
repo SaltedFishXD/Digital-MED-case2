@@ -18,8 +18,8 @@
 ### 使用說明 
 
 
-下載整個完整的資料夾，使用以上環境，
-* 有這兩個檔案(這兩個檔案要用jupyter notebook開啟)
+下載TrainingData.zip並解壓縮後，使用以上環境，
+* 
     * text_analyze_using_frequency.ipynb
         * 使用字詞頻率作分析，全部文章出現的詞減去unknown的詞
     * use_bag_of_word_and_machine_learning.ipynb
