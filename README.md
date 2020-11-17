@@ -18,8 +18,10 @@
 ### 使用說明 
 
 
-下載TrainingData.zip並解壓縮後，使用以上環境，
-* 
+至  https://drive.google.com/drive/u/1/folders/1fDH0Y7B7dxENz85F8ri8DYzpKY7iEqOB  下載TrainingData.zip並解壓縮後，使用以上環境
+* Case2.ipynb
+    * 資料讀取&處理
+        * 
     * text_analyze_using_frequency.ipynb
         * 使用字詞頻率作分析，全部文章出現的詞減去unknown的詞
     * use_bag_of_word_and_machine_learning.ipynb
