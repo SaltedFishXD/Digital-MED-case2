@@ -1,4 +1,4 @@
-# 數位醫學 -Case1
+# 數位醫學 -Case2
 ### python 環境 
 * 環境
     * python                    3.7
